@@ -150,7 +150,9 @@ public class Main3_4_2 {
 	}
 }
 
-
+git add java_honkakunyumon
+git commit -m "第3章終わり"
+git push origin chapter3
 
 
 
