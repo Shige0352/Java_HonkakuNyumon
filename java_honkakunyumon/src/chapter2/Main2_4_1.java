@@ -16,5 +16,6 @@ public class ResultObject {
 	private int number;
 
 	private String name;
+	
 
 }
