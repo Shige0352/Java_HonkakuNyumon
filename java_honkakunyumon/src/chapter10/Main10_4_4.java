@@ -34,11 +34,3 @@ public class Main10_4_4 {
 	}
 
 }
-package type.api;
-
-public interface Foo {
-	String say();
-
-}
-
-package type.api;
